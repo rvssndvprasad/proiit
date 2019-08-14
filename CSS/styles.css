@@ -1,0 +1,16 @@
+body{
+  background-color: #66bfbf;
+}
+hr{
+  background-color: coral;
+  border-style: dashed;
+  border-color: blue;
+  height: 10px;
+  width: 30%;
+}
+h1{
+  color: #64c4ed;
+}
+h4{
+  color: #ffb3b3
+}
